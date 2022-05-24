@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774756457875",
+    "firebase_url": "https://belang-93b78.firebaseio.com",
+    "project_id": "belang-93b78",
+    "storage_bucket": "belang-93b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774756457875:android:2360ba6e06871300c31c66",
+        "android_client_info": {
+          "package_name": "com.example.belang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774756457875-1pqmi88rteaqvqv1ddcri03jalpl0nnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4quAsEQa2ISn2wMYnqecgZU27Jz-M-ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774756457875-1pqmi88rteaqvqv1ddcri03jalpl0nnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutDasar3"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/style_post">
+        <ImageView
+            android:id="@+id/foto3"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/image"/>
+
+
+        <TextView
+            android:id="@+id/judul3"
+            android:text="sample text here"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/foto3"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <TextView
+            android:id="@+id/deskripsi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/judul3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="13dp"
+            android:padding="10dp"
+            android:layout_toRightOf="@id/foto3"
+            android:text="sample text here" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>
